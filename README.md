@@ -1,2 +1,1 @@
-# test
-test
+Simple counter with HTML, CSS, JavaScript.
