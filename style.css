@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  pad: 0;
+}
+
+body {
+  background-color: #1d1d1d;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 75px;
+}
+
+p {
+  color: #fff;
+  font-size: 160px;
+  text-align: center;
+}
+
+button {
+  width: 70px;
+  border: 0;
+  outline: 0;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  opacity: 0.5;
+}
+
+button:first-of-type {
+  border-color: red;
+}
+button:last-of-type {
+  border-color: green;
+}
+
+button:hover {
+  opacity: 1;
+  color: darkorange;
+}
+
