@@ -1,1 +1,1 @@
-Simple counter with HTML, CSS, JavaScript.
+Simple counter build with HTML, CSS, JavaScript.
